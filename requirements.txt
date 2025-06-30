@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+PyPDF2
+yake
+transformers
+langchain
+langchain-google-genai
+sentencepiece
