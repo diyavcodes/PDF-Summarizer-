@@ -5,4 +5,4 @@ yake
 transformers
 langchain
 langchain-google-genai
-sentencepiece
+
